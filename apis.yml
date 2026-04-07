@@ -1,7 +1,12 @@
 aid: pvh
-url: https://raw.githubusercontent.com/api-evangelist/pvh/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/pvh/refs/heads/main/apis.yml
 modified: '2026-03-21'
 apis: []
 common:
   - type: Website
     url: https://www.pvh.com
+description: >-
+  PVH Corp. is one of the largest apparel companies in the world, owning iconic brands
+  including Calvin Klein and Tommy Hilfiger and licensing brands such as Van Heusen,
+  IZOD, and Arrow.
