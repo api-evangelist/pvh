@@ -1,5 +1,5 @@
 # PVH (pvh)
-PVH is a Fortune 500 company. This repository captures the APIs, developer tools, and machine-readable API artifacts for PVH.
+PVH Corp. is one of the largest apparel companies in the world, owning iconic brands including Calvin Klein and Tommy Hilfiger and licensing brands such as Van Heusen, IZOD, and Arrow. This repository captures the APIs, developer tools, and machine-readable API artifacts for PVH.
 
 **URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/pvh/refs/heads/main/apis.yml)
 
@@ -11,12 +11,12 @@ PVH is a Fortune 500 company. This repository captures the APIs, developer tools
 
 ## Tags:
 
- - Fortune 500
+ - Fortune 500, Apparel, Retail
 
 ## Timestamps
 
 - **Created:** 2026-03-21
-- **Modified:** 2026-03-21
+- **Modified:** 2026-04-28
 
 ## APIs
 
