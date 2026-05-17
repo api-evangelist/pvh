@@ -5,7 +5,7 @@ description: >-
   iconic brands including Calvin Klein and Tommy Hilfiger and licensing
   brands such as Van Heusen, IZOD, and Arrow. This repository captures
   the APIs, developer tools, and machine-readable API artifacts for PVH.
-type: Contract
+kind: contract
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
   - Apparel
