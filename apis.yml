@@ -18,6 +18,8 @@ modified: '2026-04-28'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/pvh
   - type: Website
     url: https://www.pvh.com
 maintainers:
